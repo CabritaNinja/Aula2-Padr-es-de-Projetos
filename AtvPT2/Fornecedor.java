@@ -1,0 +1,3 @@
+interface Fornecedor {
+    void loginFornecedor();
+}
