@@ -1,3 +1,0 @@
-interface Fornecedor {
-    void login();
-}
